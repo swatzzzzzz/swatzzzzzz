@@ -57,7 +57,9 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swatzzzzzz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
-<img src="https://streak-stats.demolab.com?user=swatzzzzzz&theme=dark" />
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=swatzzzzzz&theme=dark" />
+</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=swatzzzzzz.swatzzzzzz&left_color=1a1a1a&right_color=1a1a1a&text_color=ffffff" />
