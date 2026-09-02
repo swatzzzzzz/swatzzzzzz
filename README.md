@@ -33,18 +33,18 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 
 ## Foco atual
 
-- Desenvolvimento de lógica de programação  
-- Estruturação de código e boas práticas  
-- Criação de APIs com Node.js  
-- Evolução para TypeScript  
-- Introdução a banco de dados  
+- Desenvolvimento de lógica de programação
+- Estruturação de código e boas práticas
+- Criação de APIs com Node.js
+- Evolução para TypeScript
+- Introdução a banco de dados
 
 ---
 
 ## Projetos
 
-- Em desenvolvimento: Aplicação de lista de tarefas (JavaScript)  
-- Em desenvolvimento: API simples com Node.js  
+- Em desenvolvimento: Aplicação de lista de tarefas (JavaScript)
+- Em desenvolvimento: API simples com Node.js
 
 *Projetos práticos serão adicionados conforme evolução.*
 
@@ -53,8 +53,8 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 ## Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=swatzzzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=swatzzzzzz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatzzzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatzzzzzz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
 </p>
 
 <p align="center">
@@ -69,7 +69,15 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 
 ## Contato
 
-<p align="center"> <a href="https://discord.com/users/654091727837069368"> <img src="https://img.shields.io/badge/Contact-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> </a> <a href="https://www.youtube.com/@Swatzs"> <img src="https://img.shields.io/badge/Media-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"> </a> </p>
+<p align="center">
+  <a href="https://discord.com/users/654091727837069368">
+    <img src="https://img.shields.io/badge/Contact-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+  <a href="https://www.youtube.com/@Swatzs">
+    <img src="https://img.shields.io/badge/Media-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
 
 ---
 
