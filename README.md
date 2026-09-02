@@ -15,6 +15,7 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 ## Tecnologias e Estudos
 
 ### Base
+
 <p>
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white">
@@ -22,6 +23,7 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 </p>
 
 ### Em aprendizado
+
 <p>
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
@@ -53,11 +55,6 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 ## Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=swatzzzzzz&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swatzzzzzz&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff" />
-</p>
-
-<p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=swatzzzzzz&theme=dark" />
 </p>
 
@@ -70,6 +67,7 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
 ## Contato
 
 <p align="center">
+
   <a href="https://discord.com/users/654091727837069368">
     <img src="https://img.shields.io/badge/Contact-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
@@ -77,6 +75,7 @@ Tenho experiência com computadores desde 2017, com facilidade em aprender novas
   <a href="https://www.youtube.com/@Swatzs">
     <img src="https://img.shields.io/badge/Media-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
+
 </p>
 
 ---
